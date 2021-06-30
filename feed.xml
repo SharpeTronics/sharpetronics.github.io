@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>SharpeTronics</title>
+        <link>https://sharpetronics.github.io</link>
+        <atom:link href="https://sharpetronics.github.io/feed.xml" rel="self" type="application/rss+xml" />
+        <description>Easing the content creators experience sharing information through online information portals is our focus.</description>
+        <lastBuildDate></lastBuildDate>
+        
+        <item>
+            <title>Big Startups Without Big Tech</title>
+            <link>
+                https://sharpetronics.github.io/blog/tutorials/2021/06/29/big-startups-without-big-tech/
+            </link>
+            <description>
+                &lt;p&gt;Welcome to the Blockchain Internet called DFINITY. In my spare time, I have been tinkering and learning &lt;strong&gt;Motoko&lt;/strong&gt;. It is a language built for the Internet Computer (IC) that can be used to interface applications, websites and other various software.&lt;/p&gt;
+
+&lt;p&gt;Motoko is a programming typed language that compiles into WebAssembly (WA) and is created by...
+            </description>
+            <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://sharpetronics.github.io/blog/tutorials/2021/06/29/big-startups-without-big-tech/
+            </guid>
+        </item>
+        
+        <item>
+            <title>SharpeTronics Inc. Becomes Official</title>
+            <link>
+                https://sharpetronics.github.io/blog/company/2021/03/17/sharpetronics-inc-becomes-official/
+            </link>
+            <description>
+                &lt;p&gt;We as in SharpeTronics Inc. are proud to announce our business is official with the mountain state of West Virginia on March 17, 2021.&lt;/p&gt;
+
+&lt;p&gt;We also have our very own mailbox provided by the beloved Postmaster.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we now have pillars in place to begin building and creating avenues to bee of service with our community. It has been a long road ...
+            </description>
+            <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://sharpetronics.github.io/blog/company/2021/03/17/sharpetronics-inc-becomes-official/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Welcome To An Appalachian Technology Company</title>
+            <link>
+                https://sharpetronics.github.io/blog/company/2021/01/03/sharpetronics-welcomes-you/
+            </link>
+            <description>
+                &lt;p&gt;Welcome to SharpeTronics, where light travels at high altitudes. We are a mountain made company in the Appalachians of West Virginia that strives with software and hardware technologies. We are statewide leaders in our area of expertise and invite you to support local business.&lt;/p&gt;
+
+&lt;p&gt;Our mission is to enable a modern web architecture that empowers the user and enables acc...
+            </description>
+            <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://sharpetronics.github.io/blog/company/2021/01/03/sharpetronics-welcomes-you/
+            </guid>
+        </item>
+        
+        <item>
+            <title>New Research Center</title>
+            <link>
+                https://sharpetronics.github.io/blog/engineering/2017/08/22/research/
+            </link>
+            <description>
+                &lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas f...
+            </description>
+            <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+            <guid>
+                https://sharpetronics.github.io/blog/engineering/2017/08/22/research/
+            </guid>
+        </item>
+        
+        <item>
+            <title>New Industry Partner</title>
+            <link>
+                https://sharpetronics.github.io/blog/engineering/2017/08/01/welcome/
+            </link>
+            <description>
+                &lt;p&gt;Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod.&lt;/p&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Vivamus sagittis lacus v...
+            </description>
+            <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+            <guid>
+                https://sharpetronics.github.io/blog/engineering/2017/08/01/welcome/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Modern Engineering 2nd Edition</title>
+            <link>
+                https://sharpetronics.github.io/blog/engineering/2017/02/12/modern/
+            </link>
+            <description>
+                &lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod.&lt;/p&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit...
+            </description>
+            <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+            <guid>
+                https://sharpetronics.github.io/blog/engineering/2017/02/12/modern/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Welcome Home YOU</title>
+            <link>
+                https://sharpetronics.github.io/blog/partnerships/2017/02/03/teleportation/
+            </link>
+            <description>
+                &lt;p&gt;Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod.&lt;/p&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Vivamus sagittis lacus v...
+            </description>
+            <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
+            <guid>
+                https://sharpetronics.github.io/blog/partnerships/2017/02/03/teleportation/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Welcome Home You</title>
+            <link>
+                https://sharpetronics.github.io/blog/partnerships/2017/02/03/robotics/
+            </link>
+            <description>
+                &lt;p&gt;Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod.&lt;/p&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Vivamus sagittis lacus v...
+            </description>
+            <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
+            <guid>
+                https://sharpetronics.github.io/blog/partnerships/2017/02/03/robotics/
+            </guid>
+        </item>
+        
+    </channel>
+</rss>
